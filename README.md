@@ -23,7 +23,7 @@ This is a simple C program that demonstrates basic file operations, including cr
    ```
 3. **Run the program**:
    ```bash
-   ./file_operations
+   ./demo_file
    ```
 
 4. **Functions in Action**: The program will automatically attempt to:
@@ -36,6 +36,4 @@ This is a simple C program that demonstrates basic file operations, including cr
 
 ## License
 MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-This README explains the key features and functions of the program clearly and concisely. You can update or add further explanations as needed!
